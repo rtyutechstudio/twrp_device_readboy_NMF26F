@@ -1,0 +1,2 @@
+add_lunch_combo omni_NMF26F-eng
+add_lunch_combo omni_NMF26F-userdebug
