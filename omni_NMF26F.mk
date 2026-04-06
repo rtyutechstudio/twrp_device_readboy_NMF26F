@@ -13,7 +13,7 @@ PRODUCT_PACKAGES += \
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := NMF26F
-PRODUCT_NAME := readboy_NMF26F
+PRODUCT_NAME := omni_NMF26F
 PRODUCT_BRAND := readboy
 PRODUCT_MODEL := readboy NMF26F
 PRODUCT_MANUFACTURER := readboy
