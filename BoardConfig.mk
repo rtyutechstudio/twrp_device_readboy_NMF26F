@@ -62,6 +62,7 @@ ALLOW_MISSING_DEPENDENCIES := true
 
 # Asian region languages
 TW_EXTRA_LANGUAGES := true
+TW_DEFAULT_LANGUAGE := zh_CN
 
 # Encryption support
 TW_INCLUDE_CRYPTO := false
