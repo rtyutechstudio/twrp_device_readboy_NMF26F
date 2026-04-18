@@ -1,4 +1,5 @@
 DEVICE_TREE := device/readboy/NMF26F
+DEVICE_PATH := $(DEVICE_TREE)
 
 # Bootloader
 TARGET_BOOTLOADER_BOARD_NAME := msm8952
